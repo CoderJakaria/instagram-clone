@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import Instagram from './pages/instagram/Instagram';
 
 function App() {
   return (
     <div className="App">
-        hi Friends
+        <Instagram />
     </div>
   );
 }
